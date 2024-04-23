@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T07:40:20.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="V-NWCCMP-OHZwUJ3_po4" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T07:40:29.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VVa6U8FOr3-Rptb9mTnx" version="24.2.8" type="github">
   <diagram name="Page-1" id="qof1fZy7rlcnzFYANP3V">
     <mxGraphModel dx="3635" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -274,7 +274,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pRwMzuSWa3xkRZmgdmZQ-91" value="`costs`" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="130" y="690" width="640" height="270" as="geometry" />
+          <mxGeometry x="130" y="690" width="640" height="210" as="geometry" />
         </mxCell>
         <mxCell id="pRwMzuSWa3xkRZmgdmZQ-92" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;top=0;left=0;right=0;bottom=1;fontSize=18;" vertex="1" parent="pRwMzuSWa3xkRZmgdmZQ-91">
           <mxGeometry y="30" width="640" height="30" as="geometry" />
@@ -350,32 +350,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pRwMzuSWa3xkRZmgdmZQ-109" value="`updated_at` timestamp NULL DEFAULT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;strokeColor=inherit;top=0;left=0;bottom=0;right=0;spacingLeft=6;fontSize=18;" vertex="1" parent="pRwMzuSWa3xkRZmgdmZQ-107">
-          <mxGeometry x="30" width="610" height="30" as="geometry">
-            <mxRectangle width="610" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pRwMzuSWa3xkRZmgdmZQ-110" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;top=0;left=0;right=0;bottom=0;fontSize=18;" vertex="1" parent="pRwMzuSWa3xkRZmgdmZQ-91">
-          <mxGeometry y="210" width="640" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pRwMzuSWa3xkRZmgdmZQ-111" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;strokeColor=inherit;top=0;left=0;bottom=0;right=0;fontSize=18;" vertex="1" parent="pRwMzuSWa3xkRZmgdmZQ-110">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pRwMzuSWa3xkRZmgdmZQ-112" value="KEY `costs_company_id_foreign` (`company_id`)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;strokeColor=inherit;top=0;left=0;bottom=0;right=0;spacingLeft=6;fontSize=18;" vertex="1" parent="pRwMzuSWa3xkRZmgdmZQ-110">
-          <mxGeometry x="30" width="610" height="30" as="geometry">
-            <mxRectangle width="610" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pRwMzuSWa3xkRZmgdmZQ-113" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;top=0;left=0;right=0;bottom=0;fontSize=18;" vertex="1" parent="pRwMzuSWa3xkRZmgdmZQ-91">
-          <mxGeometry y="240" width="640" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pRwMzuSWa3xkRZmgdmZQ-114" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;strokeColor=inherit;top=0;left=0;bottom=0;right=0;fontSize=18;" vertex="1" parent="pRwMzuSWa3xkRZmgdmZQ-113">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pRwMzuSWa3xkRZmgdmZQ-115" value="CONSTRAINT `costs_company_id_foreign` FOREIGN KEY (`company_id`) REFERENCES `companies` (`id`)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;strokeColor=inherit;top=0;left=0;bottom=0;right=0;spacingLeft=6;fontSize=18;" vertex="1" parent="pRwMzuSWa3xkRZmgdmZQ-113">
           <mxGeometry x="30" width="610" height="30" as="geometry">
             <mxRectangle width="610" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -639,10 +613,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pRwMzuSWa3xkRZmgdmZQ-187" value="" style="fontSize=18;html=1;endArrow=ERmandOne;rounded=0;entryX=0.496;entryY=1.092;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;startArrow=ERmandOne;startFill=0;exitX=0.378;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pRwMzuSWa3xkRZmgdmZQ-1" target="pRwMzuSWa3xkRZmgdmZQ-113">
+        <mxCell id="pRwMzuSWa3xkRZmgdmZQ-187" value="" style="fontSize=18;html=1;endArrow=ERmandOne;rounded=0;entryX=0.464;entryY=1.049;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;startArrow=ERmandOne;startFill=0;exitX=0.378;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pRwMzuSWa3xkRZmgdmZQ-1" target="pRwMzuSWa3xkRZmgdmZQ-107">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="220" y="1220" as="sourcePoint" />
-            <mxPoint x="-479" y="394" as="targetPoint" />
+            <mxPoint x="447.44000000000005" y="962.7599999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pRwMzuSWa3xkRZmgdmZQ-188" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;1 to 1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" vertex="1" connectable="0" parent="pRwMzuSWa3xkRZmgdmZQ-187">
