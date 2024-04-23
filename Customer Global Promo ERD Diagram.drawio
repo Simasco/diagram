@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T04:20:05.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7v8dTCjIj1eeOD15Rxmu" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T04:20:17.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="i8rYIGfJ-67uufjfziVH" version="24.2.8" type="github">
   <diagram name="Page-1" id="vgvbuqR0HXpFJNE2y8I2">
     <mxGraphModel dx="2438" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -428,12 +428,12 @@
             <mxPoint x="620" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kryCxpMamjIrY3Zk3ilS-124" value="Many To Many" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="kryCxpMamjIrY3Zk3ilS-123" vertex="1" connectable="0">
+        <mxCell id="kryCxpMamjIrY3Zk3ilS-124" value="Many To Many" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" parent="kryCxpMamjIrY3Zk3ilS-123" vertex="1" connectable="0">
           <mxGeometry x="-0.0166" y="-2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kryCxpMamjIrY3Zk3ilS-125" value="Many To Many" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="1" vertex="1" connectable="0">
+        <mxCell id="kryCxpMamjIrY3Zk3ilS-125" value="Many To Many" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="400.00384463083384" y="289.9990017985591" as="geometry">
             <mxPoint x="-46" y="297" as="offset" />
           </mxGeometry>
