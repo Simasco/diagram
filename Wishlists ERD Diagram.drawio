@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T16:00:44.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Sm1eBcvxyabFhRll3gE2" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T16:00:54.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MF206nHAXmhCorZOWGjr" version="24.3.0" type="github">
   <diagram name="Page-1" id="cTg7fm5jRkxxKYKRb6a_">
     <mxGraphModel dx="2284" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lL8PIca2jXsSufIU9SgZ-69" value="`products`" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="620" y="20" width="600" height="540" as="geometry" />
+          <mxGeometry x="620" y="20" width="600" height="480" as="geometry" />
         </mxCell>
         <mxCell id="lL8PIca2jXsSufIU9SgZ-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;top=0;left=0;right=0;bottom=1;fontSize=16;" parent="lL8PIca2jXsSufIU9SgZ-69" vertex="1">
           <mxGeometry y="30" width="600" height="30" as="geometry" />
@@ -451,32 +451,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lL8PIca2jXsSufIU9SgZ-114" value="`updated_at` timestamp NULL DEFAULT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;strokeColor=inherit;top=0;left=0;bottom=0;right=0;spacingLeft=6;fontSize=16;" parent="lL8PIca2jXsSufIU9SgZ-112" vertex="1">
-          <mxGeometry x="30" width="570" height="30" as="geometry">
-            <mxRectangle width="570" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lL8PIca2jXsSufIU9SgZ-115" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;top=0;left=0;right=0;bottom=0;fontSize=16;" parent="lL8PIca2jXsSufIU9SgZ-69" vertex="1">
-          <mxGeometry y="480" width="600" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lL8PIca2jXsSufIU9SgZ-116" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;strokeColor=inherit;top=0;left=0;bottom=0;right=0;fontSize=16;" parent="lL8PIca2jXsSufIU9SgZ-115" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lL8PIca2jXsSufIU9SgZ-117" value="KEY `products_company_id_foreign` (`company_id`)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;strokeColor=inherit;top=0;left=0;bottom=0;right=0;spacingLeft=6;fontSize=16;" parent="lL8PIca2jXsSufIU9SgZ-115" vertex="1">
-          <mxGeometry x="30" width="570" height="30" as="geometry">
-            <mxRectangle width="570" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lL8PIca2jXsSufIU9SgZ-118" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;top=0;left=0;right=0;bottom=0;fontSize=16;" parent="lL8PIca2jXsSufIU9SgZ-69" vertex="1">
-          <mxGeometry y="510" width="600" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lL8PIca2jXsSufIU9SgZ-119" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;strokeColor=inherit;top=0;left=0;bottom=0;right=0;fontSize=16;" parent="lL8PIca2jXsSufIU9SgZ-118" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lL8PIca2jXsSufIU9SgZ-120" value="CONSTRAINT `products_company_id_foreign` FOREIGN KEY (`company_id`) REFERENCES `companies` (`id`)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;strokeColor=inherit;top=0;left=0;bottom=0;right=0;spacingLeft=6;fontSize=16;" parent="lL8PIca2jXsSufIU9SgZ-118" vertex="1">
           <mxGeometry x="30" width="570" height="30" as="geometry">
             <mxRectangle width="570" height="30" as="alternateBounds" />
           </mxGeometry>
