@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T15:09:33.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YccDe6n-ZP1CtHtUTIib" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T15:10:05.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="b_0z_Olsw_d9YmfSCIhb" version="24.4.0" type="github">
   <diagram name="Page-1" id="8wrbGp4el5WIoJ6fjSWn">
     <mxGraphModel dx="1914" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="L_xJVtzbBdB4aBmsJh9X-21" value="Kelola Profil" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308.75" y="560" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L_xJVtzbBdB4aBmsJh9X-23" value="Kelola Biaya" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L_xJVtzbBdB4aBmsJh9X-23" value="Kelola Alamat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308.75" y="850" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L_xJVtzbBdB4aBmsJh9X-24" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
