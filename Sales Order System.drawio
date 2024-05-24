@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T08:28:31.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Sllc5xkB7VBPxO-KbQK1" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T08:29:36.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5bUcbIueKYxbyOfPnV3c" version="24.4.7" type="github">
   <diagram name="Page-1" id="W_XF1uq0aSnlUcI4NHIS">
-    <mxGraphModel dx="1144" dy="153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2072" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,6 +145,15 @@
         </mxCell>
         <mxCell id="Hizaeblbdw4o51jSgOIb-62" value="&amp;lt;&amp;lt; Extend &amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="Hizaeblbdw4o51jSgOIb-69" target="Hizaeblbdw4o51jSgOIb-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-69" value="Make new purchase" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-70" value="Create new address" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="490" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
