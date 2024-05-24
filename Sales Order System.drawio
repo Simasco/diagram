@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T08:19:58.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="raZlagaxo-H_u5xjipR6" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T08:22:02.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="I5Vy_g636BYEdKeXaVyW" version="24.4.7" type="github">
   <diagram name="Page-1" id="W_XF1uq0aSnlUcI4NHIS">
-    <mxGraphModel dx="1168" dy="165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1732" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,9 +13,6 @@
         <mxCell id="Hizaeblbdw4o51jSgOIb-3" value="Checkout&lt;div&gt;From Store&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-20" y="270" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Hizaeblbdw4o51jSgOIb-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="290" y="270" width="200" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="Hizaeblbdw4o51jSgOIb-5" value="" style="endArrow=open;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="Hizaeblbdw4o51jSgOIb-3" target="Hizaeblbdw4o51jSgOIb-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="630" as="sourcePoint" />
@@ -24,21 +21,6 @@
         </mxCell>
         <mxCell id="Hizaeblbdw4o51jSgOIb-6" value="&amp;lt;&amp;lt; Extend &amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Hizaeblbdw4o51jSgOIb-7" value="Make Payment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Hizaeblbdw4o51jSgOIb-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.033;exitY=0.32;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.978;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hizaeblbdw4o51jSgOIb-4" target="Hizaeblbdw4o51jSgOIb-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="450" as="sourcePoint" />
-            <mxPoint x="480" y="292" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Hizaeblbdw4o51jSgOIb-9" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;extension points&lt;/b&gt;&lt;div style=&quot;text-align: left; font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="300" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Hizaeblbdw4o51jSgOIb-10" value="&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;Checkout From Store&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="310" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hizaeblbdw4o51jSgOIb-11" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="-170" y="520" width="30" height="60" as="geometry" />
@@ -113,6 +95,27 @@
             <mxPoint x="720" y="530" as="sourcePoint" />
             <mxPoint x="800" y="530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-48" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="270" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="Hizaeblbdw4o51jSgOIb-48">
+          <mxGeometry width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-7" value="Make Payment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Hizaeblbdw4o51jSgOIb-48">
+          <mxGeometry x="50" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.033;exitY=0.32;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.978;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Hizaeblbdw4o51jSgOIb-48" source="Hizaeblbdw4o51jSgOIb-4" target="Hizaeblbdw4o51jSgOIb-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="180" as="sourcePoint" />
+            <mxPoint x="190" y="22" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-9" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;extension points&lt;/b&gt;&lt;div style=&quot;text-align: left; font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Hizaeblbdw4o51jSgOIb-48">
+          <mxGeometry x="50" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-10" value="&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;Checkout From Store&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Hizaeblbdw4o51jSgOIb-48">
+          <mxGeometry x="30" y="40" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
