@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T08:15:21.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="des_p9HT-hQjrU_cu_NV" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T08:15:40.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="msvHvbTZW1-Y6phsnyj1" version="24.4.7" type="github">
   <diagram name="Page-1" id="W_XF1uq0aSnlUcI4NHIS">
     <mxGraphModel dx="1984" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,10 +40,10 @@
         <mxCell id="Hizaeblbdw4o51jSgOIb-10" value="&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;Checkout From Store&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="310" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hizaeblbdw4o51jSgOIb-11" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Hizaeblbdw4o51jSgOIb-11" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="-170" y="520" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hizaeblbdw4o51jSgOIb-12" value="Operator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Hizaeblbdw4o51jSgOIb-12" value="Operator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="-170" y="660" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hizaeblbdw4o51jSgOIb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="Hizaeblbdw4o51jSgOIb-17" target="Hizaeblbdw4o51jSgOIb-19">
