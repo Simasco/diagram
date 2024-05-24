@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T08:12:37.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="P-ok9fsewTsjSWH_x6zq" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T08:14:56.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="OnGae3O7hxkJTf81wvqv" version="24.4.7" type="github">
   <diagram name="Page-1" id="W_XF1uq0aSnlUcI4NHIS">
     <mxGraphModel dx="1984" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,10 +46,16 @@
         <mxCell id="Hizaeblbdw4o51jSgOIb-12" value="Operator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-170" y="660" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="Hizaeblbdw4o51jSgOIb-17" target="Hizaeblbdw4o51jSgOIb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hizaeblbdw4o51jSgOIb-17" value="View Transaction" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-40" y="525" width="170" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Hizaeblbdw4o51jSgOIb-18" value="Record Transaction" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Hizaeblbdw4o51jSgOIb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="Hizaeblbdw4o51jSgOIb-18" target="Hizaeblbdw4o51jSgOIb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-18" value="Record Payment" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-40" y="660" width="170" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Hizaeblbdw4o51jSgOIb-19" value="Manage Sales Orders" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
@@ -59,6 +65,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-130" y="553" as="sourcePoint" />
             <mxPoint x="200" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hizaeblbdw4o51jSgOIb-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="689.29" as="sourcePoint" />
+            <mxPoint x="-40" y="689.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
