@@ -88,7 +88,7 @@
         </mxCell>
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-74" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="pTlCcrwe_p9yA7JR0rzY-73">
           <mxGeometry x="-0.181" y="-1" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint x="-5" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-75" value="Login&lt;div&gt;sebagai&lt;br&gt;Operator?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -128,7 +128,7 @@
         </mxCell>
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-99" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pTlCcrwe_p9yA7JR0rzY-84">
           <mxGeometry x="-0.2241" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-85" value="Login&lt;div&gt;sebagai&lt;br&gt;Client?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
