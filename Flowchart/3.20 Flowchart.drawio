@@ -88,7 +88,7 @@
         </mxCell>
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-74" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="pTlCcrwe_p9yA7JR0rzY-73">
           <mxGeometry x="-0.181" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-75" value="Login&lt;div&gt;sebagai&lt;br&gt;Operator?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -123,13 +123,13 @@
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-82" value="Beranda&lt;div&gt;(Client)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="363.5" y="845" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pTlCcrwe_p9yA7JR0rzY-83" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="295.5" y="876" as="geometry">
-            <mxPoint x="3" y="-7" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pTlCcrwe_p9yA7JR0rzY-85" target="pTlCcrwe_p9yA7JR0rzY-82">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pTlCcrwe_p9yA7JR0rzY-99" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pTlCcrwe_p9yA7JR0rzY-84">
+          <mxGeometry x="-0.2241" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-85" value="Login&lt;div&gt;sebagai&lt;br&gt;Client?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="152.5" y="830" width="95" height="90" as="geometry" />
@@ -153,13 +153,13 @@
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-90" value="Beranda&lt;div&gt;(Driver)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="363.5" y="985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pTlCcrwe_p9yA7JR0rzY-91" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="295.5" y="1016" as="geometry">
-            <mxPoint x="-3" y="-7" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTlCcrwe_p9yA7JR0rzY-94" target="pTlCcrwe_p9yA7JR0rzY-90">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pTlCcrwe_p9yA7JR0rzY-100" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pTlCcrwe_p9yA7JR0rzY-92">
+          <mxGeometry x="-0.1379" y="-2" relative="1" as="geometry">
+            <mxPoint x="-7" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pTlCcrwe_p9yA7JR0rzY-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pTlCcrwe_p9yA7JR0rzY-94" target="pTlCcrwe_p9yA7JR0rzY-95">
           <mxGeometry relative="1" as="geometry" />
